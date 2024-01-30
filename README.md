@@ -19,19 +19,13 @@ This is a simple command-line Todo application written in Python. The applicatio
     cd TodoApp
     ```
 
-2. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Todo App:**
+2. **Run the Todo App:**
 
     ```bash
     python todo_app.py
     ```
 
-4. **Interact with the Menu:**
+3. **Interact with the Menu:**
 
     - Choose options from the menu to perform various actions on your tasks.
     - Follow the prompts to provide necessary information.
